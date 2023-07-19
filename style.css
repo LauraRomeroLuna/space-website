@@ -1,0 +1,59 @@
+body{color: black;
+    background-color: #f1ecfc ;familia tipográfica: 'Roboto', sans-serif;}
+.webb {text-align: center; font-family: 'Henny Penny', cursive; color: darkslateblue;}
+    img{width: 50%;border-radius:50px; }
+.estudio{text-align:justify;}
+    .astro{ width: 35%;margin-right: 40px;}
+    .title-astrobiologia{font: size 40px;}
+    .origen-uni {font-family: Arial, Helvetica, sans-serif;}
+    .misiones {color: rgb(82, 34, 8);}
+    .teoria{text-align:justify;}
+    .estrella{text-align:justify;} 
+    .lactea{text-align: justify;}
+    .solar{text-align: justify;}
+    .planeta{text-align: justify;}
+    .imagen1{width: 42%;margin-right: 40px;margin-left:80px;}
+    .uy{text-align: justify;width: 60%;}
+    .vy{text-align: justify;width: 60%;}
+    .mu{text-align: justify;width: 60%;}
+    .betel{text-align: justify;width: 60%;}
+    .antar{text-align: justify;width: 60%;}
+    .pisto{text-align: justify;width: 60%;}
+    .rige{text-align: justify;width: 60%;}
+    .orden{text-align: center;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    .alde{text-align: justify;width: 60%;}
+    .artu{text-align: justify;width: 60%;}
+    .polu{text-align: justify;width: 60%;}
+    .imagen2{width:25%;}
+    .imagen3{width:25%;}
+    .imagen4{width:25%;}
+    .imagen5{width:25%;}
+    .imagen6{width:25%;}
+    .imagen7{width:25%;}
+    .imagen8{width:25%;}
+    .imagen9{width:25%;}
+    .imagen10{width:25%;}
+    .imagen11{width:25%;}
+    .mercurio{width:50%;}
+    .mercuri{margin:3%;color: crimson;}
+    .venu{margin:3%;color: crimson;}
+    .Venus{width:35%;}
+    .tie{margin:3%;color: crimson;}
+    .tierra{width:35%;}
+    .mar{margin:3%;color: crimson;}
+    .marte{width:35%;}
+    .jup{margin:3%;color: crimson;}
+    .jupiter{width: 35%;}
+    .sat{margin:3%;color: crimson;}
+    .saturno{width:35%}
+    .ura{margin:3%;color: crimson;}
+    .urano{width: 30%}
+    .nep{margin:3%;color: crimson;}
+    .neptuno{width:30%}
+    {}
+    {}
+    /* 
+selector{
+    propiedad : valor ;
+} 
+*/
